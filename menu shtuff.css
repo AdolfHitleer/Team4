@@ -87,6 +87,7 @@
 		.stories{
 			font-size: 15pt;
 			line-height: 35px;
+		 	color: #232323
 		}
 		.quote{
 			font-size: 30pt;
@@ -94,4 +95,9 @@
 		.headings{
 			font-size: 25pt;
 			font-weight: bold;	
+		 	color: #232323
+		}
+		h1{	font-size: 25pt;
+			font-weight: bold;	
+		 	color: #232323
 		}
