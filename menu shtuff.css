@@ -85,8 +85,13 @@
 			visibility: visible;
 		}
 		.stories{
-			font-size: 20px
+			font-size: 15pt;
+			line-height: 35px;
 		}
 		.quote{
-			font-size: 30pt
+			font-size: 30pt;
+		}
+		.headings{
+			font-size: 25pt;
+			font-weight: bold;	
 		}
