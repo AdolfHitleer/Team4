@@ -69,9 +69,14 @@
 		}
 		
 		ul li ul li:hover {
-			background: #666;
+			background: #232323;
+			
 		}
-		
+		.shadow {
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
 		ul li:hover ul {
 			display: block;
 			opacity: 1;
@@ -94,8 +99,10 @@
 		<li>
 			Articles
 			<ul>
+				<div class="shadow">
 				<li>Stories</li>
 				<li>Get help</li>
+				</div>
 			</ul>
 		</li>
 		<li>Bibliography</li>
